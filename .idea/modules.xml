@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitMagic/BitMagic.iml" filepath="$PROJECT_DIR$/BitMagic/BitMagic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics/Mathematics.iml" filepath="$PROJECT_DIR$/Mathematics/Mathematics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SPRING-BOOT-DAILY-UPDATES.iml" filepath="$PROJECT_DIR$/.idea/SPRING-BOOT-DAILY-UPDATES.iml" />
+    </modules>
+  </component>
+</project>
